@@ -1,0 +1,21 @@
+#define Window_height 500
+#define Window_width 500
+#define Hopper_height 40 
+#define Hopper_width 40
+#define Platform_width 100
+#define Platform_height 15
+#define TRUE 1 
+#define FALSE 0 
+#define No_platform 7
+#define MIN_VERTICAL_DISTANCE 100
+#define MIN_HORIZONTAL_DISTANCE 70
+#define PLATFORM_SPEED 50
+#define FPS 30
+#define FRAME_TARGET_TIME (1000/FPS)
+#define GRAVITY 150
+#define HOPPER_JUMP_SPEED 150
+#define JUMP_HEIGHT 250
+#define PLATFORM_GAP 150
+#define Hopper_intial_x (Window_height)/2
+#define Hopper_initial_y (Window_width-Hopper_width)
+
